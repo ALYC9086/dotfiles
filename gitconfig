@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = anthony9086@hotmail.com
+	name = Anthony Chiu
